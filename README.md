@@ -1,8 +1,6 @@
 # Northwind_Traders
 (I made data analysis with sql and phyton tools for Northwind Dataset)
-
 ![logo](https://github.com/user-attachments/assets/b60bc01c-5312-4724-9e14-0ef4625dedc8)
-
 
 The Northwind dataset is a classic sample database provided by Microsoft, originally designed to demonstrate database operations like querying, reporting, and data analysis. It simulates the operations of a fictional company called "Northwind Traders," which imports and exports specialty foods globally. The dataset covers the period from 1996 to 1998 and includes comprehensive details about the company's sales, products, suppliers, employees, and customers.
 
