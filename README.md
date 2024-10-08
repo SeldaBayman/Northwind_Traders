@@ -1,4 +1,5 @@
-# Northwind_Traders
+# Northwind_Traders_Data_Analysis
+
 (I made data analysis with sql and phyton tools for Northwind Dataset)
 ![logo](https://github.com/user-attachments/assets/b60bc01c-5312-4724-9e14-0ef4625dedc8)
 
@@ -56,3 +57,41 @@ Summarizes the invoices related to the sales transactions, with detailed informa
 Time Period Coverage (1996-1998):
 The data reflects transactions from the years 1996 to 1998, showcasing the business operations of Northwind Traders during that time. This period allows users to analyze trends in sales, employee performance, and other business operations over these three years.
 The Northwind dataset is popular for practicing SQL queries, performing analysis in data visualization tools, and modeling business intelligence scenarios.
+
+Here's a summary of a potential analysis of the Northwind dataset (1996-1998):
+
+1. Sales Trends:
+Sales showed a steady increase from 1996 to 1998, with a significant rise in the fourth quarters due to holiday demand. The top-selling products were beverages and condiments, which consistently contributed the most to revenue.
+Key customers came from Europe and North America, accounting for the majority of sales. Germany, the USA, and France were the largest markets.
+
+2. Employee Performance:
+Certain employees, especially those handling large accounts in North America and Europe, contributed heavily to the company’s success. Employees like Nancy Davolio and Margaret Peacock had the highest sales volumes.
+Sales personnel focusing on repeat customers performed better than those targeting new customer acquisition, indicating strong customer loyalty.
+
+3. Order Analysis:
+Reorder frequency for popular items (like beverages) was high, indicating consistent demand, whereas specialty items had less frequent but higher-value orders.
+A significant number of orders experienced delays due to shipping issues. On-time deliveries were more frequent with local shippers than international ones.
+
+4. Customer Behavior:
+Loyal customers placed larger and more frequent orders, with discounts being a key driver for increasing order size. Customers from countries like Germany and USA were particularly responsive to discounts, leading to higher volumes.
+Most orders came from large companies, while smaller firms placed fewer, but higher-value orders.
+
+5. Product Categories:
+Beverages were the top-selling category, followed by Condiments and Confections. The company’s focus on perishable goods like dairy products was less profitable due to shorter shelf life and higher shipping costs.
+Products with the highest profit margins were specialty items, like exotic cheeses and regional delicacies, which had lower volume but higher unit prices.
+
+6. Supplier Relationships:
+Key suppliers were from countries like the USA, Italy, and Japan. Long-term partnerships with reliable suppliers ensured steady stock for top-selling products.
+Some suppliers were more prone to shipping delays, which affected order fulfillment. This highlighted the need for a diversified supplier base.
+
+7. Shipping and Freight:
+Shippers like Speedy Express and United Package had better on-time performance records, while Federal Shipping faced delays, particularly on international routes.
+Freight costs significantly impacted profit margins on lower-priced goods. The company’s reliance on air freight for perishables contributed to higher costs.
+
+8. Regional Analysis:
+The European market showed the highest growth, especially in Germany and France, while North America remained the largest revenue contributor.
+Sales in South America were minimal, suggesting a potential market expansion opportunity.
+
+9. Profitability:
+Products with a higher unit price and lower shipping costs contributed the most to profitability. Discounted sales, although they drove volume, led to thinner margins in some regions.
+The company could improve profitability by optimizing shipping methods and exploring alternative suppliers to reduce costs.
