@@ -95,3 +95,5 @@ Sales in South America were minimal, suggesting a potential market expansion opp
 9. Profitability:
 Products with a higher unit price and lower shipping costs contributed the most to profitability. Discounted sales, although they drove volume, led to thinner margins in some regions.
 The company could improve profitability by optimizing shipping methods and exploring alternative suppliers to reduce costs.
+
+This analysis provides key insights into the Northwind Traders' operations during 1996-1998, offering recommendations for growth, market expansion, and operational efficiency.
